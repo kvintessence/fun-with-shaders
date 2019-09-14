@@ -1,0 +1,14 @@
+{
+    "glsl-canvas.useCompactFormatter": false,
+    "glsl-canvas.textures": {
+        "birds": "img/birds.jpg",
+        "boom": "img/boom.png",
+        "perlin_noise": "img/perlin_noise.png",
+        "circle_mask": "img/circle_mask.png",
+        "pumpkin": "img/pumpkin.png",
+        "pumpkin_normal": "img/pumpkin_normal.png"        
+    },
+    "glsl-canvas.uniforms": {
+        "u_color": [1.0, 1.0, 0.0, 1.0]
+    }
+}
